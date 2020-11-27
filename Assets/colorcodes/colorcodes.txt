@@ -1,0 +1,3 @@
+panel = 4F579A
+buttons = FFFFFF
+background = 6E75AB

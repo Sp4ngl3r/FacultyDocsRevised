@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1014842688089",
+    "firebase_url": "https://facultydocs-1b5e4.firebaseio.com",
+    "project_id": "facultydocs-1b5e4",
+    "storage_bucket": "facultydocs-1b5e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014842688089:android:e98f58b897803b6cc72748",
+        "android_client_info": {
+          "package_name": "com.khatokar.unityTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014842688089-96ds0h0i3vc66gkr89jsbtco33b8lgni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqO8FsWmTr2RPT0uBGbz0yYCHC_iPGvHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014842688089-96ds0h0i3vc66gkr89jsbtco33b8lgni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
